@@ -1,0 +1,28 @@
+{
+  "name": "centralbl.js",
+  "version": "1.0.0",
+  "description": "An API Wrapper for https://tcbl.glitch.me/",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/Mednoob/centralbl.js.git"
+  },
+  "keywords": [
+    "centralbl",
+    "centralbotlist",
+    "thecentralbotlist",
+    "central-bot-list"
+  ],
+  "author": "Mednoob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mednoob/centralbl.js/issues"
+  },
+  "homepage": "https://github.com/Mednoob/centralbl.js#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
